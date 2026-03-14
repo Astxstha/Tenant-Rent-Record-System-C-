@@ -10,4 +10,4 @@ A simple console-based Tenant Rent Management System developed using C++. This p
 ##Technologies Used
 -C++
 -Object-Oriented Programming concepts
--Standard Template Library (iostream, string)
+-Standard Template Library (iostream, string) 
