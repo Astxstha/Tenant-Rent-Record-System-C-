@@ -12,4 +12,12 @@ A simple console-based Tenant Rent Management System developed using C++. This p
 ## Technologies Used
 - C++  
 - Object-Oriented Programming (OOP) concepts  
-- Standard Template Library (STL) (`iostream`, `string`)  
+- Standard Template Library (STL) (`iostream`, `string`)
+
+## Limitations
+- Fixed-size arrays: Can only store up to 30 tenants.
+- No file storage: Data is lost when the program exits.
+- Single-user console application.
+- Can only delete all records, not individual tenants.
+- Names with spaces may not work correctly.
+- No input validation for incorrect data.
